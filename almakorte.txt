@@ -1,2 +1,3 @@
 almaa1 (master)
 korte1 (fejlesztes)
+almakorteuborka (fejlesztes)
